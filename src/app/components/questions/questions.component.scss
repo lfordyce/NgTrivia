@@ -1,0 +1,13 @@
+md-card-content>:last-child, md-card>:last-child{
+  margin-bottom: 16px;
+}
+md-card-content>:first-child, md-card>:first-child{
+  margin-top: 16px;
+}
+md-card {
+  margin: 16px;
+}
+.question-card {
+  width: 400px;
+  min-width: 350px;
+}
